@@ -1,6 +1,6 @@
 const puppeteer = require('puppeteer');
 
-const URL = 'https://yandex.ru/jobs/vacancies/dev/?cities=213&tags=frontend';
+const URL = 'https://yandex.ru/jobs/vacancies/dev/?cities=214&tags=frontend';
 const TEST_URL = 'http://example.com/';
 
 const YA_SELECTOR = '.page-content .layout .serp__item:not(.serp__item_hidden_yes) .link';
