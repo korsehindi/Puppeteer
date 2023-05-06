@@ -9,6 +9,6 @@
   "author": "tagir-a",
   "license": "MIT",
   "dependencies": {
-    "puppeteer": "^1.5.0"
+    "puppeteer": "^19.4.0"
   }
 }
